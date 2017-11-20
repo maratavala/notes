@@ -1,2 +1,2 @@
 # notes
-Notes on technical issues i encountered
+notes on technical issues i encountered
